@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://xx6z8vv.glitch.me/$1"}
+      {"src": "/(.*)","dest": "http://xx6z8vv.glitch.me/"}
     ]
 }
