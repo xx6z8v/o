@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "http://xx6z8vv.glitch.me/$1"}
+      {"src": "/(.*)","dest": "http://cn-qz-plc-1.of-7af93c01.shop:53257/$1"}
     ]
 }
